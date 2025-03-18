@@ -32,7 +32,7 @@ tech.html       # FAQ section for Technology & Gadgets
 3. Read the questions and answers for the selected topic.
 
 ## Site Link
-[Live Demo](https://faq-page-using-html.netlify.app/)
+[Live](https://faq-page-using-html.netlify.app/)
 
 ## Future Improvements
 - Add CSS for better styling and user experience
